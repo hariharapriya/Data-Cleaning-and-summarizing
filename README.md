@@ -9,5 +9,6 @@ the same client was required, in order to access if the product (bank term depos
 be (‘yes’) or not (‘no’) subscribed.
 
 Task1.ipynb consists the code for data preparation where the data is loaded and preprocessed.
-Task2.ipynb consistd the code for data exploration where various visualizations are used to 
+
+Task2.ipynb consists the code for data exploration where various visualizations are used to 
 inspect all the attributes in the dataset.
